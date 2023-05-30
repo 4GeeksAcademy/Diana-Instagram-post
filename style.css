@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.post {
+    display: block;
+    height: 580px;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 5%;
+    background-color: white;
+}
+.titulo-post {
+    height: 8%;
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+}
+.icono-css {
+    width: 50px;
+    text-align: center;
+}
+.parrafos-titulo {
+    width: 100px;
+    padding: 0%;
+}
+.icono-puntos {
+    width: 220px;
+    text-align: right;
+}
+.img-post {
+    height: 57%;
+    width: 100%;
+}
+.img-post img {
+    height: 100%;
+    width: 100%;
+}
+.likes-cap{
+    height: 33%;
+    width: 100%;
+}
+.likes-cap p {
+    padding: 12px;
+    font-size: 13px;
+}
+#cap {
+    font-size: 14.5px;
+    padding: 0px 12px 12px 12px;
+}
+.iconos-reaccion {
+    display: flex;
+    padding-left: 6px;
+}
+.iconos-reaccion i {
+    padding: 8px 5px 5px 5px;
+}
+.iconos-reaccion #paperplain {
+    padding-right: 212px;
+}
