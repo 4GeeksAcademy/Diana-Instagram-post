@@ -40,14 +40,7 @@ body {
     height: 33%;
     width: 100%;
 }
-.likes-cap p {
-    padding: 12px;
-    font-size: 13px;
-}
-#cap {
-    font-size: 14.5px;
-    padding: 0px 12px 12px 12px;
-}
+
 .iconos-reaccion {
     display: flex;
     padding-left: 6px;
@@ -57,4 +50,13 @@ body {
 }
 .iconos-reaccion #paperplain {
     padding-right: 212px;
+}
+
+.likes-cap p {
+    padding: 12px;
+    font-size: 13px;
+}
+#cap {
+    font-size: 14.5px;
+    padding: 0px 12px 12px 12px;
 }
